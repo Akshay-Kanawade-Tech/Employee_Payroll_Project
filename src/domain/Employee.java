@@ -12,7 +12,7 @@ public abstract  class Employee {
         this.id =id;
     }
 
-    //getter's , encapsulation not giving direct access of variable
+    //getter's, and encapsulation not giving direct access of variable
     public String getName(){
         return  name;
     }
